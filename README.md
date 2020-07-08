@@ -16,7 +16,7 @@ You can brand game elements for your campaigns.
 
 ![image](https://github.com/TempoPlatform/tempo-sdk/blob/master/images/Tempo%20Mini%20-%20Donwload.png?raw=true)
 
-Used alone or in conjunction with Branded Placements, Tempo Minis provide a way for you to offer a shopping or download experience inside a game.. 
+Used alone or in conjunction with Branded Placements, Tempo Minis provide a way for you to offer a shopping or download experience inside a game.
 
 * Audio Ads  - Status: Trial campaigns starting Q4’20
 
