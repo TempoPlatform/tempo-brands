@@ -2,7 +2,7 @@
 
 Reach coveted demographics to promote your brand, drive commerce, downloads, and affinity by integrating mobile games using the Tempo SDK. Tempo provides new kinds of ad units that run during gameplay in a non-disruptive manner which lets you showcase your products in a gamified way WHILE users playing. 
 
-The Tempo SDK provides a quick way to implement Tempo Ad Units: Simply select the game elements which can be branded, supply your own branded elements, and the Tempo Platform handles the rest.
+The Tempo SDK provides a quick way to implement Tempo Ad Units: Select available game elements you want to brand, supply your own branded textures, and the Tempo Platform handles the rest. 
 
 # Types of Ad Units
 
